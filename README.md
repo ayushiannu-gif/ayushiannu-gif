@@ -1,8 +1,3 @@
-<!-- =================================================== -->
-<!--   AYUSHI SHARMA — GITHUB PROFILE README            -->
-<!--   STYLE: psychedelic festival                      -->
-<!-- =================================================== -->
-
 ![hero](./assets/hero.svg)
 
 <br>
